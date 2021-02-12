@@ -1,2 +1,2 @@
 # RubyKumari.github.io
-Developer
+Personal landing page
